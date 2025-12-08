@@ -6,8 +6,7 @@ Hey! I'm **Lakshya Singhal**, a tech-driven learner passionate about **coding, A
 🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science**  
 💻 Currently learning: **C, C++, Python, , DSA** , SQL and DBMS  
 📊 Interested in: **Data Analysis, Machine Learning, and Python Automation**   
-💬 Ask me about: **C++, Python, SQL, and databases 
-
+💬 Ask me about: **C++, Python, SQL, and databases  
 📫 Reach me at: **lakshyasinghal92@gmail.com**  
 
 ---
@@ -20,10 +19,10 @@ Hey! I'm **Lakshya Singhal**, a tech-driven learner passionate about **coding, A
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 
 ## 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,SQL" />
 
 ## 🛠️ Developer Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,stackoverflow,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
 ## ⚙️ Other Skills
 <img src="https://img.shields.io/badge/Data%20Analysis-1F6FEB?style=for-the-badge&logo=python&logoColor=white" />
