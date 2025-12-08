@@ -7,12 +7,13 @@ Hey! I'm **Lakshya Singhal**, a tech-driven learner passionate about **coding, A
 💻 Currently learning: **C, C++, Python, , DSA** , SQL and DBMS  
 📊 Interested in: **Data Analysis, Machine Learning, and Python Automation**   
 💬 Ask me about: **C++, Python, SQL, and databases 
+
 📫 Reach me at: **lakshyasinghal92@gmail.com**  
 
 ---
 
 # 🧠 Tech Stack
-![Skills](https://skillicons.dev/icons?i=c,cpp,python,js,html,css,git,vscode,github)
+![Skills](https://skillicons.dev/icons?i=c,cpp,python,SQL,MYSQL,MSSQL,git,vscode,github)
 
 ---
 
