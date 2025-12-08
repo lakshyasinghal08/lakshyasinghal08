@@ -11,9 +11,25 @@ Hey! I'm **Lakshya Singhal**, a tech-driven learner passionate about **coding, A
 📫 Reach me at: **lakshyasinghal92@gmail.com**  
 
 ---
+# 🧠 Tech Stack & Technologies
 
-# 🧠 Tech Stack
-![Skills](https://skillicons.dev/icons?i=c,cpp,python,SQL,MYSQL,MSSQL,git,vscode,github)
+## 🗄️ Databases
+<img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+
+## 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
+
+## 🛠️ Developer Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,stackoverflow,postman" />
+
+## ⚙️ Other Skills
+<img src="https://img.shields.io/badge/Data%20Analysis-1F6FEB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Database%20Design-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+
 
 ---
 
