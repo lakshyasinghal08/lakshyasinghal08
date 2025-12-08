@@ -4,12 +4,10 @@
 Hey! I'm **Lakshya Singhal**, a tech-driven learner passionate about **coding, AI, data, and automation**.
 
 🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science**  
-💻 Currently learning: **C, C++, Python, JavaScript, DSA**  
-📊 Interested in: **Data Analysis, Machine Learning, and Python Automation**  
-🎮 Side Hobby: Creating & editing **Call of Duty gaming content**  
-💬 Ask me about: **C++, Python, SQL, Discord bots, and tech tools**  
-📫 Reach me at: **lakshyasinghal08@gmail.com**  
-⚡ Fun Fact: *I fix bugs faster than I find them.* 🐞🚀  
+💻 Currently learning: **C, C++, Python, , DSA** , SQL and DBMS  
+📊 Interested in: **Data Analysis, Machine Learning, and Python Automation**   
+💬 Ask me about: **C++, Python, SQL, and databases 
+📫 Reach me at: **lakshyasinghal92@gmail.com**  
 
 ---
 
@@ -31,8 +29,7 @@ Hey! I'm **Lakshya Singhal**, a tech-driven learner passionate about **coding, A
 
 # 🧰 Tools I Use
 - 👨‍💻 VS Code, Git, GitHub Desktop  
-- 🎨 Canva, Figma  
-- 🤖 Discord.js, Python automation  
+- 🎨 pycharm , MYSQL , Excel , MSSQL
 
 ---
 
