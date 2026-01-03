@@ -47,14 +47,6 @@ Hey! I'm  **Lakshya Singhal**, an aspiring Data Analyst with a strong interest i
 
 ---
 
-# 🧰 Tools I Use
-- VS Code   
-- Git  
-- GitHub  
-- MySQL  
-- Excel  
-
----
 
 # 🚀 Currently Working On
 - Improving **DSA & problem-solving**
