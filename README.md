@@ -64,9 +64,9 @@ A Machine Learning API built to predict customer churn using Python and ML conce
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 
 ---
-## 💡 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<p align="center">
+  <i>🚀 "Turning data into insights and ideas into reality." 🚀</i>
+</p>
 
 ## 📈 GitHub Summary
 
