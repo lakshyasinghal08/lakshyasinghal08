@@ -1,4 +1,12 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=2800&color=00A3FF&center=true&vCenter=true&width=1000&lines=Hi+I'm+Lakshya+Singhal;Aspiring+Data+Scientist;ML+Enthusiast+%7C+AI+Learner;Building+Data+%26+AI+Projects)
+<!-- Animated Wave Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00A3FF,100:6e40c9&height=220&section=header&text=Lakshya%20Singhal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+<!-- Typing Animation -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00A3FF&center=true&vCenter=true&width=1000&lines=Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Exploring+AI+%26+Agentic+Systems;Building+Data+%26+ML+Projects" />
+</p>
+
+---
 
 # 👋 About Me
 
@@ -68,9 +76,21 @@ A Machine Learning API built to predict customer churn using Python and ML conce
 
 ---
 
-# 🏆 GitHub Trophies
+# 📈 GitHub Activity Graph
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=lakshyasinghal08&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+[![Lakshya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lakshyasinghal08&theme=tokyo-night)](https://github.com/lakshyasinghal08)
+
+---
+
+# 🐍 Contribution Snake
+
+![snake gif](https://github.com/lakshyasinghal08/lakshyasinghal08/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+# 🎵 Spotify Playing
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&redirect=true)
 
 ---
 
@@ -87,3 +107,6 @@ A Machine Learning API built to predict customer churn using Python and ML conce
 ![](https://komarev.com/ghpvc/?username=lakshyasinghal08&color=blue)
 
 ### ✨ *“Keep learning. Keep building. Stay consistent.”*
+
+<!-- Animated Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00A3FF,100:6e40c9&height=120&section=footer"/>
