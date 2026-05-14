@@ -5,7 +5,10 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00A3FF&center=true&vCenter=true&width=1000&lines=Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Exploring+AI+%26+Agentic+Systems;Building+Data+%26+ML+Projects" />
 </p>
-
+<!-- Coding Animation GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</p>
 ---
 
 # 👋 About Me
@@ -61,6 +64,13 @@ A Machine Learning API built to predict customer churn using Python and ML conce
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 
 ---
+## 💡 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+## 📈 GitHub Summary
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lakshyasinghal08&theme=tokyonight)
 
 # 📊 GitHub Stats
 
@@ -76,23 +86,6 @@ A Machine Learning API built to predict customer churn using Python and ML conce
 
 ---
 
-# 📈 GitHub Activity Graph
-
-[![Lakshya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lakshyasinghal08&theme=tokyo-night)](https://github.com/lakshyasinghal08)
-
----
-
-# 🐍 Contribution Snake
-
-![snake gif](https://github.com/lakshyasinghal08/lakshyasinghal08/blob/output/github-contribution-grid-snake.svg)
-
----
-
-# 🎵 Spotify Playing
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&redirect=true)
-
----
 
 # 🌟 Current Focus
 
