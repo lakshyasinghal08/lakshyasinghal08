@@ -1,4 +1,4 @@
-````md
+
 <!-- Animated Wave Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00A3FF,100:6e40c9&height=220&section=header&text=Lakshya%20Singhal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
@@ -109,17 +109,7 @@ Agentic AI          🎯 Ultimate Goal
 
 ---
 
-# 🚀 Featured Projects
 
-| Project                      | Description                         |
-| ---------------------------- | ----------------------------------- |
-| 📚 Library Management System | Python-based management application |
-| 🎓 Student Management System | Student records management project  |
-| 🏦 Bank Management System    | Banking operations using Python     |
-| 📊 Sales Data Analysis       | Data analysis using Pandas & NumPy  |
-| 🤖 Customer Churn Prediction | Machine Learning prediction project |
-
----
 
 # 📈 GitHub Summary
 
@@ -184,17 +174,7 @@ Agentic AI          🎯 Ultimate Goal
 
 ---
 
-# 📌 2026 Goals
 
-* Complete Pandas
-* Learn SQL
-* Complete Machine Learning Fundamentals
-* Build 10+ Python Projects
-* Build 5+ Data Analysis Projects
-* Learn Agentic AI
-* Contribute Consistently on GitHub
-
----
 
 <p align="center">
 <i>🚀 Turning data into insights and ideas into reality 🚀</i>
