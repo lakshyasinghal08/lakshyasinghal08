@@ -5,11 +5,18 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00A3FF&center=true&vCenter=true&width=1000&lines=Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Exploring+AI+%26+Agentic+Systems;Building+Data+%26+ML+Projects" />
 </p>
-<!-- Coding Animation GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+
+<img src="https://img.shields.io/badge/CGPA-9.31-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Projects-10+-green?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI%20%26%20DS-Student-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20to-Internships-orange?style=for-the-badge"/>
+
 </p>
----
+
 
 # 👋 About Me
 
@@ -22,6 +29,17 @@ Hey! I'm **Lakshya Singhal**, an aspiring Data Scientist passionate about Machin
 💬 **Ask me about:** Python, SQL, Pandas, NumPy, and Data Analysis  
 📫 **Reach me at:** **lakshyasinghal92@gmail.com**
 
+<p align="center">
+
+<a href="https://linkedin.com/in/lakshya-singhal-8a9551321">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/lakshyasinghal08">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
 ---
 
 # 🚀 Featured Project
@@ -48,24 +66,34 @@ A Machine Learning API built to predict customer churn using Python and ML conce
 
 # 🧠 Tech Stack & Tools
 
-## 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,mysql,cpp,git,github,vscode,html,css,js"/>
+</p>
 
-## 📊 Data Science Libraries
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn)
+### 📊 Data Science
 
-## 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+<p align="center">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi"/>
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+</p>
 
----
+### 🤖 AI & Backend
+
+<p align="center">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
+<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentic_AI-6e40c9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-blueviolet?style=for-the-badge"/>
+</p>
+
 <p align="center">
   <i>🚀 "Turning data into insights and ideas into reality." 🚀</i>
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=lakshyasinghal08&theme=tokyonight&row=1&column=6"/>
 </p>
 
 ## 📈 GitHub Summary
